@@ -1,1 +1,3 @@
-# Smart-Bot-Detector-IPC-
+# Smart Bot Detector 🚀  
+
+The **Smart Bot Detector** is an AI-powered bot detection system developed using **Arduino** and **Embedded C**. This project integrates **ultrasonic sensors** for real-time obstacle detection and avoidance, making it an efficient and responsive system. The hardware is programmed to detect movements, analyze patterns, and respond accordingly. Additionally, the project involved designing technical posters and delivering presentations to showcase its functionality and real-world applications. This was developed as a **first-year project**, combining hands-on experience with embedded systems and AI-based detection techniques.
